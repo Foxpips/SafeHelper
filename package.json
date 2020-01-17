@@ -1,11 +1,16 @@
 {
   "name": "safehelper",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "description": "Alternative to lodash",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
-    "test": "console.log(\"hello world\")"
+    "test": "console.log(\"hello world\")",
+    "build": "tsc"
   },
   "author": "Simon Markey",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
