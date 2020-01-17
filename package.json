@@ -1,0 +1,11 @@
+{
+  "name": "safehelper",
+  "version": "1.0.1",
+  "description": "Alternative to lodash",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"hello world\")"
+  },
+  "author": "Simon Markey",
+  "license": "ISC"
+}
