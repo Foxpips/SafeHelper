@@ -1,2 +1,2 @@
-export declare const Greeter: (name: string) => string;
-export declare const safeMap: (array: any[], action: (args: any) => any) => any[];
+import { INavbar } from "./Navigation/INavbar.interfaces";
+export default INavbar;

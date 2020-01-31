@@ -1,7 +1,7 @@
 {
-  "name": "safehelper",
-  "version": "1.0.6",
-  "description": "Alternative to lodash",
+  "name": "yobicore",
+  "version": "1.0.0",
+  "description": "Core interfaces and components for Yobi",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -11,6 +11,10 @@
   "author": "Simon Markey",
   "license": "ISC",
   "devDependencies": {
+    "@types/react": "^16.9.19",
+    "@types/styled-components": "^4.4.2",
+    "react": "^16.12.0",
+    "styled-components": "^5.0.0",
     "typescript": "^3.7.5"
   }
 }
